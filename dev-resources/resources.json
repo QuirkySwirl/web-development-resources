@@ -1,0 +1,336 @@
+{
+  "title": "Awesome Web Development Resources",
+  "description": "This is an awesome project about Web Development resources.",
+  "categories": [
+    {
+      "id": "hosting",
+      "title": "Hosting",
+      "resources": [
+        {
+          "url": "https://netlify.com",
+          "name": "Netlify",
+          "description": "Netlify unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps."
+        },
+        {
+          "url": "https://firebase.google.com",
+          "name": "Firebase",
+          "description": "Firebase helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises"
+        },
+        {
+          "url": "https://aws.amazon.com",
+          "name": "Amazon Web Services",
+          "description": "Amazon Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale."
+        },
+        {
+          "url": "https://pages.github.com",
+          "name": "GitHub Pages",
+          "description": "GitHub Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live."
+        },
+        {
+          "url": "https://vercel.com",
+          "name": "Vercel",
+          "description": "Vercel combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship."
+        },
+        {
+          "url": "https://surge.sh",
+          "name": "Surge",
+          "description": "Surge is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line."
+        },
+        {
+          "url": "https://render.com",
+          "name": "Render",
+          "description": "Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git."
+        },
+        {
+          "url": "https://docs.gitlab.com/ee/user/project/pages/",
+          "name": "GitLab Pages",
+          "description": "GitLab Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript."
+        },
+        {
+          "url": "https://stormkit.io",
+          "name": "Stormkit",
+          "description": "Stormkit can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly."
+        },
+        {
+          "url": "https://www.digitalocean.com/",
+          "name": "DigitalOcean",
+          "description": "DigitalOcean has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results."
+        },
+        {
+          "url": "https://www.000webhost.com/",
+          "name": "000webhostapp",
+          "description": "000webhostapp is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection."
+        },
+        {
+          "url": "https://infinityfree.net/",
+          "name": "InfinityFree",
+          "description": "InfinityFree is fully featured, completely free website hosting with PHP, MySQL and no ads on site."
+        },
+        {
+          "url": "https://pages.cloudflare.com/",
+          "name": "Cloudflare Pages",
+          "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth."
+        },
+        {
+          "url": "https://supabase.com",
+          "name": "Supabase",
+          "description": "Supabase is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage."
+        },
+        {
+          "url": "https://railway.app/",
+          "name": "Railway",
+          "description": "Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud."
+        },
+        {
+          "url": "https://fly.io/",
+          "name": "Fly",
+          "description": "Fly is a platform for running full stack apps and databases close to your users. We've been hammering on this thing since 2017, and we think it's pretty great."
+        },
+        {
+          "url": "https://kinsta.com/static-site-hosting/",
+          "name": "Kinsta",
+          "description": "Kinsta provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare."
+        },
+        {
+          "url": "https://fleek.co/",
+          "name": "Fleek",
+          "description": "Fleek makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers."
+        }
+      ]
+    },
+    {
+      "id": "learning-platforms",
+      "title": "Learning Platforms",
+      "resources": [
+        { "url": "https://www.freecodecamp.org/", "name": "freeCodeCamp" },
+        { "url": "https://www.lambdatest.com/learning-hub/", "name": "LambdaTest Learning Hub" },
+        { "url": "https://codecademy.com", "name": "Codecademy" },
+        { "url": "https://javascript30.com", "name": "JavaScript30" },
+        { "url": "https://www.frontendmentor.io", "name": "Frontend Mentor" },
+        { "url": "https://testautomationu.applitools.com", "name": "Test Automation University" },
+        { "url": "https://www.coursera.org", "name": "Coursera" },
+        { "url": "https://www.edx.org/", "name": "edX" },
+        { "url": "https://khanacademy.org", "name": "Khan Academy" },
+        { "url": "https://sololearn.com", "name": "SoloLearn" },
+        { "url": "https://www.scaler.com/topics/", "name": "Scaler Topics" },
+        { "url": "https://www.theodinproject.com", "name": "The Odin Project" },
+        { "url": "https://javascript.info/", "name": "JavaScript.info" },
+        { "url": "https://vueschool.io/", "name": "Vue School" },
+        { "url": "https://www.guru99.com/", "name": "Guru99" },
+        { "url": "https://trailhead.salesforce.com/", "name": "Trailhead" },
+        { "url": "https://ocw.mit.edu/", "name": "MIT OpenCourseWare" },
+        { "url": "https://web.dev/", "name": "web.dev" },
+        { "url": "https://scrimba.com", "name": "Scrimba" },
+        { "url": "https://thegymnasium.com", "name": "Gymnasium" },
+        { "url": "https://www.amigoscode.com", "name": "Amigoscode" },
+        { "url": "https://cssbattle.dev/", "name": "CSS Battle" },
+        { "url": "https://fullstackopen.com/en/", "name": "Full Stack Open" },
+        { "url": "https://upskillcourses.com/courses", "name": "Upskill" },
+        { "url": "https://www.geeksforgeeks.org/web-development/", "name": "GeeksforGeeks Web Dev" },
+        { "url": "https://hackdesign.org/lessons", "name": "Hack Design" },
+        { "url": "https://javatpoint.com", "name": "JavaTpoint" },
+        { "url": "https://learn.microsoft.com/en-gb/training/", "name": "Microsoft Learn" },
+        { "url": "https://www.codementor.io/events", "name": "Codementor Events" },
+        { "url": "https://eloquentjavascript.net/", "name": "Eloquent JavaScript" },
+        { "url": "https://code.org/", "name": "Code.org" },
+        { "url": "https://www.interviewbit.com/", "name": "InterviewBit" },
+        { "url": "https://css-tricks.com/", "name": "CSS-Tricks" }
+      ]
+    },
+    {
+      "id": "coding-challenge-platforms",
+      "title": "Coding Challenge Platforms",
+      "resources": [
+        { "url": "https://www.codewars.com/", "name": "Codewars" },
+        { "url": "https://topcoder.com", "name": "TopCoder" },
+        { "url": "https://dapp-world.com/problems", "name": "Dapp World" },
+        { "url": "https://www.codingame.com/start", "name": "CodinGame" },
+        { "url": "https://hackerrank.com", "name": "HackerRank" },
+        { "url": "https://projecteuler.net", "name": "Project Euler" },
+        { "url": "https://coderbyte.com", "name": "Coderbyte" },
+        { "url": "https://codechef.com", "name": "CodeChef" },
+        { "url": "https://exercism.org", "name": "Exercism" },
+        { "url": "https://leetcode.com", "name": "LeetCode" },
+        { "url": "https://spoj.com", "name": "SPOJ" },
+        { "url": "https://codeforces.com", "name": "Codeforces" },
+        { "url": "https://codesignal.com", "name": "CodeSignal" },
+        { "url": "https://frontendmentor.io", "name": "Frontend Mentor" },
+        { "url": "https://devchallenges.io", "name": "DevChallenges" },
+        { "url": "https://www.hackerearth.com", "name": "HackerEarth" },
+        { "url": "https://www.frontendpractice.com", "name": "Frontend Practice" },
+        { "url": "https://www.codementor.io/projects", "name": "Codementor Projects" },
+        { "url": "https://css-challenges.com", "name": "CSS Challenges" },
+        { "url": "https://100dayscss.com", "name": "100 Days CSS" },
+        { "url": "https://codepip.com", "name": "Codepip" },
+        { "url": "https://www.w3schools.com/codegame", "name": "W3Schools CodeGame" },
+        { "url": "https://edabit.com", "name": "Edabit" },
+        { "url": "https://www.jschallenger.com", "name": "JS Challenger" },
+        { "url": "https://www.codingninjas.com", "name": "Coding Ninjas" },
+        { "url": "https://divize.io/challenges", "name": "Divize Challenges" }
+      ]
+    },
+    {
+      "id": "freelancing-platforms",
+      "title": "Freelancing Platforms",
+      "resources": [
+        { "url": "https://toptal.com", "name": "Toptal" },
+        { "url": "https://upwork.com", "name": "Upwork" },
+        { "url": "https://www.freelancer.com", "name": "Freelancer" },
+        { "url": "https://peopleperhour.com", "name": "PeoplePerHour" },
+        { "url": "https://simplyhired.com", "name": "SimplyHired" },
+        { "url": "https://www.envato.com", "name": "Envato" },
+        { "url": "https://guru.com", "name": "Guru" },
+        { "url": "https://fiverr.com", "name": "Fiverr" },
+        { "url": "https://6nomads.com", "name": "6nomads" },
+        { "url": "https://www.truelancer.com", "name": "Truelancer" },
+        { "url": "https://gun.io", "name": "Gun.io" },
+        { "url": "https://www.refrens.com", "name": "Refrens" }
+      ]
+    },
+    {
+      "id": "remote-jobs",
+      "title": "Remote Jobs",
+      "resources": [
+        { "url": "https://workremote.cc/", "name": "Work Remote" },
+        { "url": "https://www.showwcase.com/jobs", "name": "Showwcase Jobs" },
+        { "url": "https://www.remotefrontendjobs.com/", "name": "Remote Frontend Jobs" },
+        { "url": "https://jobboardsearch.com", "name": "Job Board Search" },
+        { "url": "https://www.flexjobs.com", "name": "FlexJobs" },
+        { "url": "https://remote.co/remote-jobs", "name": "Remote.co" },
+        { "url": "https://justremote.co", "name": "JustRemote" },
+        { "url": "https://weworkremotely.com", "name": "We Work Remotely" },
+        { "url": "https://remoteok.io", "name": "RemoteOK" },
+        { "url": "https://himalayas.app", "name": "Himalayas" },
+        { "url": "https://jobspresso.co", "name": "Jobspresso" },
+        { "url": "https://4dayweek.io", "name": "4 Day Week" },
+        { "url": "https://www.hiretechladies.com", "name": "Hire Tech Ladies" },
+        { "url": "https://nowhiteboard.org", "name": "No Whiteboard" },
+        { "url": "https://www.coolstartupjobs.com", "name": "Cool Startup Jobs" },
+        { "url": "https://wellfound.com/", "name": "Wellfound" },
+        { "url": "https://www.smartremotejobs.com", "name": "Smart Remote Jobs" },
+        { "url": "https://www.remotehub.com", "name": "RemoteHub" },
+        { "url": "https://startup.jobs/remote-jobs", "name": "Startup Jobs" },
+        { "url": "https://jobsinjs.com", "name": "Jobs in JS" },
+        { "url": "https://echojobs.io", "name": "Echo Jobs" },
+        { "url": "https://AiJobsTracker.com/remote", "name": "AI Jobs Tracker" },
+        { "url": "https://www.remote.io", "name": "Remote.io" },
+        { "url": "https://web3.career/remote-jobs", "name": "Web3 Career" },
+        { "url": "https://okjob.io", "name": "OkJob" },
+        { "url": "https://www.realworkfromanywhere.com", "name": "Real Work From Anywhere" },
+        { "url": "https://www.moaijobs.com", "name": "Moai Jobs" }
+      ]
+    },
+    {
+      "id": "photos",
+      "title": "Photos",
+      "resources": [
+        { "url": "https://unsplash.com", "name": "Unsplash" },
+        { "url": "https://pixabay.com", "name": "Pixabay" },
+        { "url": "https://pexels.com", "name": "Pexels" },
+        { "url": "https://reshot.com", "name": "Reshot" },
+        { "url": "https://librestock.com", "name": "LibreStock" },
+        { "url": "https://visualhunt.com", "name": "VisualHunt" },
+        { "url": "https://freephotos.cc/en", "name": "FreePhotos" },
+        { "url": "https://picjumbo.com", "name": "PicJumbo" },
+        { "url": "https://www.pxfuel.com", "name": "PxFuel" },
+        { "url": "https://www.splitshire.com", "name": "SplitShire" },
+        { "url": "https://freeforcommercialuse.net", "name": "FreeForCommercialUse" }
+      ]
+    },
+    {
+      "id": "videos",
+      "title": "Videos",
+      "resources": [
+        { "url": "https://dareful.com", "name": "Dareful" },
+        { "url": "https://www.videvo.net", "name": "Videvo" },
+        { "url": "https://www.videezy.com", "name": "Videezy" },
+        { "url": "https://pixabay.com/videos", "name": "Pixabay Videos" },
+        { "url": "https://mixkit.co", "name": "Mixkit" },
+        { "url": "https://www.vidsplay.com", "name": "VidsPlay" },
+        { "url": "https://mazwai.com", "name": "Mazwai" },
+        { "url": "https://www.pexels.com", "name": "Pexels" },
+        { "url": "https://coverr.co", "name": "Coverr" },
+        { "url": "https://www.splitshire.com", "name": "SplitShire" },
+        { "url": "https://photostockeditor.com", "name": "PhotoStock Editor" },
+        { "url": "https://www.clipstill.com", "name": "ClipStill" }
+      ]
+    },
+    {
+      "id": "illustrations",
+      "title": "Illustrations",
+      "resources": [
+        { "url": "https://icons8.com/illustrations", "name": "Icons8 Illustrations" },
+        { "url": "https://www.opendoodles.com", "name": "Open Doodles" },
+        { "url": "https://undraw.co/illustrations", "name": "unDraw" },
+        { "url": "https://www.drawkit.com", "name": "DrawKit" },
+        { "url": "https://icons8.com/ouch", "name": "Ouch" },
+        { "url": "https://iradesign.io", "name": "IRA Design" },
+        { "url": "https://blush.design", "name": "Blush" },
+        { "url": "https://storyset.com", "name": "Storyset" },
+        { "url": "https://themeisle.com/illustrations", "name": "ThemeIsle Illustrations" },
+        { "url": "https://www.manypixels.co/gallery", "name": "ManyPixels" },
+        { "url": "https://www.artify.co/illustrations-figma", "name": "Artify Figma Illustrations" },
+        { "url": "https://www.artify.co/vector-illustrations", "name": "Artify Vector Illustrations" },
+        { "url": "https://cocomaterial.com/", "name": "Coco Material" }
+      ]
+    },
+    {
+      "id": "icons",
+      "title": "Icons",
+      "resources": [
+        { "url": "https://svgmix.com", "name": "SVG Mix" },
+        { "url": "https://free-icons.github.io/free-icons", "name": "Free Icons" },
+        { "url": "https://fontawesome.com", "name": "Font Awesome" },
+        { "url": "https://flaticon.com", "name": "Flaticon" },
+        { "url": "https://icons8.com", "name": "Icons8" },
+        { "url": "https://www.iconfinder.com", "name": "IconFinder" },
+        { "url": "https://fonts.google.com/icons", "name": "Google Icons" },
+        { "url": "https://iconmonstr.com", "name": "IconMonstr" },
+        { "url": "https://heroicons.com", "name": "Heroicons" },
+        { "url": "https://boxicons.com", "name": "BoxIcons" },
+        { "url": "https://css.gg", "name": "CSS.gg" },
+        { "url": "https://lineicons.com", "name": "LineIcons" },
+        { "url": "https://remixicon.com", "name": "Remix Icon" },
+        { "url": "https://tabler-icons.io", "name": "Tabler Icons" },
+        { "url": "https://simpleicons.org", "name": "Simple Icons" }
+      ]
+    },
+    {
+      "id": "fonts",
+      "title": "Fonts",
+      "resources": [
+        { "url": "https://fonts.google.com", "name": "Google Fonts" },
+        { "url": "https://fontspace.com", "name": "FontSpace" },
+        { "url": "https://www.1001fonts.com", "name": "1001 Fonts" },
+        { "url": "https://www.fontsquirrel.com", "name": "Font Squirrel" },
+        { "url": "https://ffonts.net", "name": "FFonts" },
+        { "url": "https://www.fontfabric.com", "name": "Font Fabric" },
+        { "url": "https://urbanfonts.com", "name": "Urban Fonts" },
+        { "url": "https://www.fontpair.co", "name": "Font Pair" },
+        { "url": "https://fonts.bunny.net", "name": "Bunny Fonts" }
+      ]
+    },
+    {
+      "id": "color-palettes",
+      "title": "Color Palettes",
+      "resources": [
+        { "url": "https://coolors.co", "name": "Coolors" },
+        { "url": "https://colorhunt.co", "name": "Color Hunt" },
+        { "url": "https://paletton.com", "name": "Paletton" },
+        { "url": "https://color-hex.com", "name": "Color Hex" },
+        { "url": "https://mycolor.space", "name": "MyColor Space" },
+        { "url": "https://flatuicolors.com", "name": "Flat UI Colors" },
+        { "url": "https://color.adobe.com", "name": "Adobe Color" },
+        { "url": "https://htmlcolorcodes.com", "name": "HTML Color Codes" },
+        { "url": "https://colorsinspo.com", "name": "Colors Inspo" },
+        { "url": "https://uigradients.com", "name": "UI Gradients" },
+        { "url": "https://www.gradientos.app", "name": "Gradientos" },
+        { "url": "https://www.eggradients.com", "name": "Eggradients" },
+        { "url": "https://cssgradient.io", "name": "CSS Gradient" },
+        { "url": "https://www.0to255.com", "name": "0to255" },
+        { "url": "https://materialui.co/colors/", "name": "Material UI Colors" },
+        { "url": "https://uicolors.app", "name": "UI Colors" }
+      ]
+    }
+  ]
+}
