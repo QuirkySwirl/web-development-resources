@@ -1,4 +1,4 @@
-# Awesome Web Development Resources ![Awesome][awesome-badge]
+# Vibe Coded a directory using this  - Awesome Web Development Resources ![Awesome][awesome-badge]
 
 This is an awesome project about Web Development resources. ⚡
 
