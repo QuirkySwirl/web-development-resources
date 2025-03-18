@@ -1,6 +1,8 @@
-# Vibe Coded a directory using this  - Awesome Web Development Resources ![Awesome][awesome-badge]
+# Awesome Web Development Resources [![Awesome][awesome-badge]](https://awesome.re) [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fquirkyswirl.github.io%2Fweb-development-resources%2F&style=flat-square&label=website)](https://quirkyswirl.github.io/web-development-resources/) [![License](https://img.shields.io/github/license/quirkyswirl/web-development-resources?style=flat-square)](LICENSE) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
-This is an awesome project about Web Development resources. ⚡
+> Vibe-coded directory of curated resources for web developers and designers to level up their skills! ✨
+
+A handpicked collection of high-quality tools, libraries, blogs, and learning resources to help you in your web development journey. Browse the full collection at [https://quirkyswirl.github.io/web-development-resources/](https://quirkyswirl.github.io/web-development-resources/)
 
 Resources are added frequently! ⚡
 
