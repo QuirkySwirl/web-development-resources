@@ -5,6 +5,7 @@
     {
       "id": "hosting",
       "title": "Hosting",
+      "icon": "fas fa-server",
       "resources": [
         {
           "url": "https://netlify.com",
@@ -101,6 +102,7 @@
     {
       "id": "learning-platforms",
       "title": "Learning Platforms",
+      "icon": "fas fa-graduation-cap",
       "resources": [
         { "url": "https://www.freecodecamp.org/", "name": "freeCodeCamp" },
         { "url": "https://www.lambdatest.com/learning-hub/", "name": "LambdaTest Learning Hub" },
@@ -140,6 +142,7 @@
     {
       "id": "coding-challenge-platforms",
       "title": "Coding Challenge Platforms",
+      "icon": "fas fa-code",
       "resources": [
         { "url": "https://www.codewars.com/", "name": "Codewars" },
         { "url": "https://topcoder.com", "name": "TopCoder" },
@@ -172,6 +175,7 @@
     {
       "id": "freelancing-platforms",
       "title": "Freelancing Platforms",
+      "icon": "fas fa-briefcase",
       "resources": [
         { "url": "https://toptal.com", "name": "Toptal" },
         { "url": "https://upwork.com", "name": "Upwork" },
@@ -190,6 +194,7 @@
     {
       "id": "remote-jobs",
       "title": "Remote Jobs",
+      "icon": "fas fa-globe-americas",
       "resources": [
         { "url": "https://workremote.cc/", "name": "Work Remote" },
         { "url": "https://www.showwcase.com/jobs", "name": "Showwcase Jobs" },
@@ -223,6 +228,7 @@
     {
       "id": "photos",
       "title": "Photos",
+      "icon": "fas fa-camera",
       "resources": [
         { "url": "https://unsplash.com", "name": "Unsplash" },
         { "url": "https://pixabay.com", "name": "Pixabay" },
@@ -240,6 +246,7 @@
     {
       "id": "videos",
       "title": "Videos",
+      "icon": "fas fa-video",
       "resources": [
         { "url": "https://dareful.com", "name": "Dareful" },
         { "url": "https://www.videvo.net", "name": "Videvo" },
@@ -258,6 +265,7 @@
     {
       "id": "illustrations",
       "title": "Illustrations",
+      "icon": "fas fa-pencil-ruler",
       "resources": [
         { "url": "https://icons8.com/illustrations", "name": "Icons8 Illustrations" },
         { "url": "https://www.opendoodles.com", "name": "Open Doodles" },
@@ -277,6 +285,7 @@
     {
       "id": "icons",
       "title": "Icons",
+      "icon": "fas fa-icons",
       "resources": [
         { "url": "https://svgmix.com", "name": "SVG Mix" },
         { "url": "https://free-icons.github.io/free-icons", "name": "Free Icons" },
@@ -292,12 +301,28 @@
         { "url": "https://lineicons.com", "name": "LineIcons" },
         { "url": "https://remixicon.com", "name": "Remix Icon" },
         { "url": "https://tabler-icons.io", "name": "Tabler Icons" },
-        { "url": "https://simpleicons.org", "name": "Simple Icons" }
+        { "url": "https://simpleicons.org", "name": "Simple Icons" },
+        { "url": "https://feathericons.com", "name": "Feather Icons" },
+        { "url": "https://svgrepo.com", "name": "SVG Repo" },
+        { "url": "https://iconic.app", "name": "Iconic" },
+        { "url": "https://icomoon.io", "name": "IcoMoon" },
+        { "url": "https://iconscout.com/unicons", "name": "Unicons" },
+        { "url": "https://icons.holasvg.com", "name": "Hola SVG Icons" },
+        { "url": "https://fontello.com", "name": "Fontello" },
+        { "url": "https://fontastic.me", "name": "Fontastic" },
+        { "url": "https://ionic.io/ionicons", "name": "Ionicons" },
+        { "url": "https://icons.getbootstrap.com", "name": "Bootstrap Icons" },
+        { "url": "https://react-icons.github.io/react-icons", "name": "React Icons" },
+        { "url": "https://www.iconspedia.com", "name": "Iconspedia" },
+        { "url": "https://favicons.beaubus.com/", "name": "Beaubus Favicons" },
+        { "url": "https://www.3dicons.com/", "name": "3D Icons" },
+        { "url": "https://flowbite.com/icons/", "name": "Flowbite Icons" }
       ]
     },
     {
       "id": "fonts",
       "title": "Fonts",
+      "icon": "fas fa-font",
       "resources": [
         { "url": "https://fonts.google.com", "name": "Google Fonts" },
         { "url": "https://fontspace.com", "name": "FontSpace" },
@@ -311,8 +336,92 @@
       ]
     },
     {
+      "id": "youtube-channels",
+      "title": "Youtube Channels",
+      "icon": "fab fa-youtube",
+      "resources": [
+        { "url": "https://www.youtube.com/c/TraversyMedia", "name": "Traversy Media" },
+        { "url": "https://www.youtube.com/c/FreeCodeCamp", "name": "freeCodeCamp.org" },
+        { "url": "https://youtube.com/c/TheNetNinja", "name": "The Net Ninja" },
+        { "url": "https://www.youtube.com/c/GoogleChromeDevelopers", "name": "Google Chrome Developers" },
+        { "url": "https://www.youtube.com/c/derekbanas", "name": "Derek Banas" },
+        { "url": "https://www.youtube.com/c/Academind", "name": "Academind" },
+        { "url": "https://www.youtube.com/c/CodingTech", "name": "CodingTech" },
+        { "url": "https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw", "name": "Codú Community" },
+        { "url": "https://www.youtube.com/c/WebDevSimplified/", "name": "Web Dev Simplified" },
+        { "url": "https://www.youtube.com/c/DevEd/", "name": "Dev Ed" },
+        { "url": "https://youtube.com/c/codeSTACKr", "name": "CodeSTACKr" },
+        { "url": "https://www.youtube.com/c/CodingAddict", "name": "Coding Addict" },
+        { "url": "https://youtube.com/kepowob", "name": "Kevin Powell" },
+        { "url": "https://youtube.com/c/AniaKub%C3%B3w", "name": "Code with Ania Kubów" },
+        { "url": "https://www.youtube.com/c/TheCodingTrain/", "name": "The Coding Train" },
+        { "url": "https://www.youtube.com/user/kudvenkat", "name": "kudvenkat" },
+        { "url": "https://www.youtube.com/c/ProgramWithErik", "name": "Program With Erik" },
+        { "url": "https://www.youtube.com/c/TheCoderCoder", "name": "Coder Coder" },
+        { "url": "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ", "name": "clever programmer" },
+        { "url": "https://www.youtube.com/c/JavaScriptMastery", "name": "JavaScript Mastery" },
+        { "url": "https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ", "name": "Adrian Twarog" },
+        { "url": "https://www.youtube.com/wesbos", "name": "Wes Bos" },
+        { "url": "https://www.youtube.com/c/DesignCourse", "name": "DesignCourse" },
+        { "url": "https://www.youtube.com/c/codedamn", "name": "codedamn" },
+        { "url": "https://www.youtube.com/c/programmingwithmosh", "name": "ProgrammingWithMosh" },
+        { "url": "https://www.youtube.com/c/Fireship", "name": "Fireship" },
+        { "url": "https://www.youtube.com/c/Codevolution", "name": "Codevolution" },
+        { "url": "https://youtube.com/c/BuddyWorks", "name": "Buddy" },
+        { "url": "https://youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw", "name": "Leon Noel" },
+        { "url": "https://www.youtube.com/c/cssweekly", "name": "CSS Weekly" },
+        { "url": "https://www.youtube.com/@DaveGrayTeachesCode", "name": "Dave Gray" },
+        { "url": "https://www.youtube.com/c/SonnySangha", "name": "Sonny Sangha" },
+        { "url": "https://www.youtube.com/@learncodeacademy/videos", "name": "LearnCode.academy" },
+        { "url": "https://www.youtube.com/@coreyms", "name": "Corey Schafer" },
+        { "url": "https://www.youtube.com/@CodeWithHarry", "name": "Code with Harry" }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "title": "Podcasts",
+      "icon": "fas fa-podcast",
+      "resources": [
+        { "url": "https://syntax.fm/", "name": "Syntax" },
+        { "url": "https://fullstackradio.com", "name": "Fullstack radio" },
+        { "url": "https://changelog.com/", "name": "The Changelog" },
+        { "url": "https://laracasts.com/podcast", "name": "The Laracasts Snippet" },
+        { "url": "https://frontendhappyhour.com/", "name": "Front End Happy Hour" },
+        { "url": "https://javascriptjabber.com/", "name": "JavaScript Jabber" },
+        { "url": "https://anchor.fm/commityourcode", "name": "Commit Your Code!" },
+        { "url": "https://shoptalkshow.com/", "name": "Shop Talk" },
+        { "url": "https://www.ladybug.dev/", "name": "Ladybug Podcast" },
+        { "url": "https://blog.codepen.io/radio/", "name": "CodePen Radio" },
+        { "url": "https://www.heavybit.com/library/podcasts/jamstack-radio/", "name": "JAMStack Radio" },
+        { "url": "https://dev.to/devdiscuss", "name": "DevDiscuss" },
+        { "url": "https://dev.to/devnews", "name": "DevNews" },
+        { "url": "https://reactnativeradio.com/", "name": "React Native Radio" },
+        { "url": "https://podcast.htmlallthethings.com/", "name": "Html All The Things" },
+        { "url": "https://thecsspodcast.libsyn.com/", "name": "The CSS Podcast" },
+        { "url": "https://stackoverflow.blog/podcast/", "name": "The Stack Overflow Podcast" }
+      ]
+    },
+    {
+      "id": "code-editors",
+      "title": "Code Editors",
+      "icon": "fas fa-file-code",
+      "resources": [
+        { "url": "https://code.visualstudio.com/", "name": "VS Code" },
+        { "url": "https://www.sublimetext.com/", "name": "Sublime Text" },
+        { "url": "http://brackets.io/", "name": "Brackets" },
+        { "url": "https://www.gnu.org/software/emacs/", "name": "emacs" },
+        { "url": "https://www.vim.org/", "name": "Vim" },
+        { "url": "https://www.spacemacs.org/", "name": "Spacemacs" },
+        { "url": "https://www.gnu.org/software/emacs/", "name": "Emacs" },
+        { "url": "https://neovim.io/", "name": "Neovim" },
+        { "url": "https://www.jetbrains.com/fleet/", "name": "Fleet" },
+        { "url": "https://codelobster.com/", "name": "CodeLobster" }
+      ]
+    },
+    {
       "id": "color-palettes",
       "title": "Color Palettes",
+      "icon": "fas fa-palette",
       "resources": [
         { "url": "https://coolors.co", "name": "Coolors" },
         { "url": "https://colorhunt.co", "name": "Color Hunt" },
@@ -330,6 +439,277 @@
         { "url": "https://www.0to255.com", "name": "0to255" },
         { "url": "https://materialui.co/colors/", "name": "Material UI Colors" },
         { "url": "https://uicolors.app", "name": "UI Colors" }
+      ]
+    },
+    {
+      "id": "ui-inspiration",
+      "title": "UI Inspiration",
+      "icon": "fas fa-lightbulb",
+      "resources": [
+        { "url": "https://websitevice.com/", "name": "Website Vice" },
+        { "url": "https://httpster.net", "name": "Httpster" },
+        { "url": "https://www.awwwards.com", "name": "Awwwards" },
+        { "url": "https://dribbble.com", "name": "Dribbble" },
+        { "url": "https://onepagelove.com", "name": "Onepagelove" },
+        { "url": "https://www.behance.net", "name": "Behance" },
+        { "url": "https://tympanus.net/codrops", "name": "Codrops" },
+        { "url": "https://landings.dev", "name": "Landings Dev" }
+      ]
+    },
+    {
+      "id": "docs",
+      "title": "Docs",
+      "icon": "fas fa-book",
+      "resources": [
+        { "url": "https://developer.mozilla.org/en-US/", "name": "MDN Web Docs" },
+        { "url": "https://w3schools.com", "name": "W3Schools" },
+        { "url": "https://w3docs.com", "name": "W3Docs" },
+        { "url": "https://devdocs.io", "name": "DevDocs" }
+      ]
+    },
+    {
+      "id": "animation-libraries",
+      "title": "Animation Libraries",
+      "icon": "fas fa-film",
+      "resources": [
+        { "url": "https://elrumordelaluz.github.io/csshake/", "name": "CSShake" },
+        { "url": "https://animate.style/", "name": "Animate.css" },
+        { "url": "https://animejs.com/", "name": "AnimeJS" },
+        { "url": "https://greensock.com/gsap/", "name": "GreenSock (GSAP)" },
+        { "url": "https://www.minimamente.com/project/magic/", "name": "Magic Animations" },
+        { "url": "https://ianlunn.github.io/Hover/", "name": "Hover css" },
+        { "url": "https://anijs.github.io/", "name": "AniJS" },
+        { "url": "https://kristofferandreasen.github.io/wickedCSS/", "name": "Wicked CSS" },
+        { "url": "http://shakrmedia.github.io/tuesday/", "name": "Tuesday" },
+        { "url": "https://mojs.github.io/", "name": "Mo.js" },
+        { "url": "https://michalsnik.github.io/aos/", "name": "AOS" },
+        { "url": "http://velocityjs.org/", "name": "Velocity.js" },
+        { "url": "https://popmotion.io/", "name": "Popmotion" },
+        { "url": "http://snapsvg.io/", "name": "Snap.svg" },
+        { "url": "https://animista.net/", "name": "Animista" },
+        { "url": "https://lottiefiles.com/web-player", "name": "Lottie-Player" },
+        { "url": "https://www.framer.com/motion", "name": "Framer motion" },
+        { "url": "https://swiperjs.com", "name": "SwiperJS" },
+        { "url": "https://motion.dev", "name": "Motion One" }
+      ]
+    },
+    {
+      "id": "charts",
+      "title": "Charts",
+      "icon": "fas fa-chart-bar",
+      "resources": [
+        { "url": "https://www.chartjs.org/", "name": "Chart.js" },
+        { "url": "https://d3js.org/", "name": "D3.js" },
+        { "url": "https://threejs.org/", "name": "three.js" },
+        { "url": "https://www.amcharts.com/", "name": "amCharts" },
+        { "url": "https://chartscss.org/", "name": "Charts.css" },
+        { "url": "https://echarts.apache.org/", "name": "ECharts" }
+      ]
+    },
+    {
+      "id": "chrome-extensions",
+      "title": "Chrome Extensions",
+      "icon": "fab fa-chrome",
+      "resources": [
+        { "url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm", "name": "Web Developer" },
+        { "url": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce", "name": "CSSViewer" },
+        { "url": "https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg", "name": "Wappalyzer" },
+        { "url": "https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc", "name": "JSONView" },
+        { "url": "https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en", "name": "daily.dev - News for Busy Developers" },
+        { "url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en", "name": "Lighthouse" },
+        { "url": "https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl", "name": "Checkbot - SEO, speed & security checker" },
+        { "url": "https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf", "name": "Performance-Analyser" },
+        { "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en", "name": "WhatFont" },
+        { "url": "https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc", "name": "Visbug" },
+        { "url": "https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US", "name": "Colorzilla" },
+        { "url": "https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en", "name": "Window Resizer" },
+        { "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en", "name": "React Developer Tools" },
+        { "url": "https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp", "name": "Hackertab.dev - All Developer news in 1 tab" },
+        { "url": "https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd", "name": "Vue Developer Tools" }
+      ]
+    },
+    {
+      "id": "website-optimization-tools",
+      "title": "Website Optimization Tools",
+      "icon": "fas fa-tachometer-alt",
+      "resources": [
+        { "url": "https://pagespeed.web.dev/", "name": "Google PageSpeed Insights" },
+        { "url": "https://gtmetrix.com/", "name": "GTmetrix" },
+        { "url": "https://www.webpagetest.org", "name": "WebPageTest" },
+        { "url": "https://yslow.org/", "name": "Yslow" },
+        { "url": "https://web.dev/measure/", "name": "web.dev" },
+        { "url": "https://imagecompressor.com/", "name": "Optimizilla" },
+        { "url": "https://seotest.me/", "name": "SEOTester" },
+        { "url": "https://cors-error.dev/cors-tester/", "name": "CORS-Tester" }
+      ]
+    },
+    {
+      "id": "html-css-javascript-templates",
+      "title": "HTML/CSS/JavaScript templates",
+      "icon": "fas fa-layer-group",
+      "resources": [
+        { "url": "https://htmlrev.com", "name": "HTMLrev" },
+        { "url": "https://www.tooplate.com", "name": "Tooplate" },
+        { "url": "https://html5up.net", "name": "HTML5 UP" },
+        { "url": "https://templatemo.com", "name": "TemplateMo" },
+        { "url": "https://uideck.com", "name": "UIdeck" },
+        { "url": "https://freehtml5.co", "name": "FreeHTML5.co" },
+        { "url": "https://bootstrapmade.com", "name": "BootstrapMade" },
+        { "url": "https://graygrids.com", "name": "GrayGrids" },
+        { "url": "https://tailwindtemplates.co", "name": "Tailwind Templates" },
+        { "url": "https://themeselection.com", "name": "ThemeSelection" },
+        { "url": "https://builtatlightspeed.com", "name": "Built at Lightspeed" },
+        { "url": "https://web3templates.com", "name": "Web3 Templates" }
+      ]
+    },
+    {
+      "id": "newsletters",
+      "title": "Newsletters",
+      "icon": "fas fa-envelope-open-text",
+      "resources": [
+        { "url": "https://markodenic.com/newsletter/", "name": "Marko Tech Tips", "description": "Useful tech tips, directly to your inbox." },
+        { "url": "https://www.smashingmagazine.com/the-smashing-newsletter/", "name": "Smashing Newsletter", "description": "Front-end and UX." },
+        { "url": "https://frontendfoc.us/", "name": "Frontend Focus", "description": "HTML, CSS, WebGL, Canvas, browser tech, and more." },
+        { "url": "https://css-weekly.com/", "name": "CSS Weekly", "description": "CSS." },
+        { "url": "https://javascriptweekly.com/", "name": "JavaScript Weekly", "description": "JavaScript." },
+        { "url": "https://a11yweekly.com/", "name": "Accessibility Weekly", "description": "Accessibility." },
+        { "url": "https://jamstack.email/", "name": "JAMstacked", "description": "JAMstack ecosystem." },
+        { "url": "https://www.silvestar.codes/side-projects/ui-dev-mentoring/reads/", "name": "UI Dev Newsletter", "description": "User Interface development." },
+        { "url": "https://gomakethings.com/", "name": "Go Make Things", "description": "Daily Vanilla JavaScript." }
+      ]
+    },
+    {
+      "id": "css-generators",
+      "title": "CSS Generators",
+      "icon": "fas fa-magic",
+      "resources": [
+        { "url": "https://markodenic.com/tools/glassmorphism-css-generator/", "name": "Glassmorphism Generators", "description": "Use Glassmorphism Generator to create a stunning effect for your projects." },
+        { "url": "https://markodenic.com/tools/buttons-generator/", "name": "Buttons Generator", "description": "An online gallery of 100+ button designs you can easily copy and use in your projects." },
+        { "url": "https://grid.layoutit.com/", "name": "Layoutit Grid", "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator." },
+        { "url": "https://cssgradienteditor.com/", "name": "CSS Gradient Editor", "description": "You may only need this tool for creating CSS gradients and patterns." },
+        { "url": "https://holasvg.com/loaders/", "name": "Hola SVG Loaders Generator", "description": "SVG Loaders Generator with Sass and SMIL options" },
+        { "url": "https://www.shapedivider.app/", "name": "Shape Divider", "description": "A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project." },
+        { "url": "https://patterns.beaubus.com/", "name": "BEAUBUS Patterns", "description": "150+ free SVG patterns and CSS background images generator" },
+        { "url": "https://9elements.github.io/fancy-border-radius/", "name": "9elements - Fancy Border Radius", "description": "9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes." },
+        { "url": "https://www.blobmaker.app/", "name": "Blobmaker", "description": "Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes." },
+        { "url": "https://www.toptal.com/developers/css3maker", "name": "Toptal CSS3 Generator", "description": "A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations." },
+        { "url": "https://neumorphism.io/", "name": "Neumorphism", "description": "A free online tool for designing attractive UI with colors, gradients and shadows.." },
+        { "url": "https://scrollbar.app/", "name": "Scrollbar.app", "description": "A simple online tool for creating custom scrollbars for the web." },
+        { "url": "https://code-magic.vercel.app/", "name": "Code Magic", "description": "A free tool to make CSS easier by generating Tailwind and CSS code for effects, gradients and inputs" }
+      ]
+    },
+    {
+      "id": "css-games",
+      "title": "CSS Games",
+      "icon": "fas fa-gamepad",
+      "resources": [
+        { "url": "https://flexboxfroggy.com/", "name": "Flexbox froggy", "description": "Flexbox Froggy is an interactive game that helps users learn and practice the CSS Flexbox layout." },
+        { "url": "https://knightsoftheflexboxtable.com/", "name": "Knights of the Flexbox Table", "description": "Set of challenges where we must use Flexbox properties to position and align elements on the screen to complete a medieval-themed game layout." },
+        { "url": "https://cssgridgarden.com/", "name": "Grid garden", "description": "A Grid Garden is an interactive game that helps users learn and practice the CSS Grid layout." },
+        { "url": "https://codingfantasy.com/games/css-grid-attack/play", "name": "Grid attack", "description": "Learn and practice the CSS Grid layout" },
+        { "url": "https://flukeout.github.io/", "name": "CSS Diner", "description": "Fun and interactive way to learn how to select elements on a web page using CSS." },
+        { "url": "https://www.guess-css.app/", "name": "Guess CSS", "description": "Another Fun and interactive way to learn CSS." },
+        { "url": "https://css-speedrun.netlify.app/", "name": "CSS Speedrun", "description": "A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets)." },
+        { "url": "https://anchoreum.com/", "name": "Anchoreum", "description": "A game for learning CSS anchor positioning." }
+      ]
+    },
+    {
+      "id": "online-tools",
+      "title": "Online Tools",
+      "icon": "fas fa-tools",
+      "resources": [
+        { "url": "https://prm.pushkaryadav.in/", "name": "PRM", "description": "Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile" },
+        { "url": "https://markodenic.com/tools/qr-code-generator/", "name": "QR Code Generator", "description": "Use QR code generator to easily create a QR code for your project." },
+        { "url": "https://www.statsglitch.com/google-analytics-checker", "name": "Google Analytics Checker", "description": "Scan your project to ensure that Google Analytcs tag is properly set." },
+        { "url": "https://gra.dient.art/", "name": "Gradient Art", "description": "An advanced CSS gradient editor with layering, design tools and free cloud storage" },
+        { "url": "https://www.jsont.run/", "name": "JSONT", "description": "A simple and powerful JSON formatting tool" },
+        { "url": "https://jsoncrack.com/", "name": "JSON Crack", "description": "A simple tool to visualize JSON Code in a neat tree structure" },
+        { "url": "https://codepng.app/", "name": "Codepng", "description": "Convert your source code into awesome shareable images" },
+        { "url": "https://jsoning.com/", "name": "JSONing", "description": "A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API" },
+        { "url": "https://markdowntools.com", "name": "Markdown Tools", "description": "A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown" },
+        { "url": "https://onlineinterview.io/", "name": "OnlineInterview.io", "description": "Free interviewing platform with shared code editor, drawing board and video chat." },
+        { "url": "https://rtcd.io/", "name": "Rtcd.io", "description": "A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more." }
+      ]
+    },
+    {
+      "id": "ui-components",
+      "title": "UI Components",
+      "icon": "fas fa-puzzle-piece",
+      "resources": [
+        { "url": "https://flowbite.com/", "name": "Flowbite", "description": "Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements" },
+        { "url": "https://tailgrids.com/", "name": "TailGrids", "description": "300+ Free and Premium Tailwind CSS UI Components and Sections" },
+        { "url": "https://flyonui.com/", "name": "FlyonUI", "description": "The Easiest Components Library For Tailwind CSS." },
+        { "url": "https://ayroui.com/", "name": "Ayro UI Bootstrap", "description": "Bootstrap UI components, snippets and sections for modern web apps" },
+        { "url": "https://uiverse.io", "name": "uiverse", "description": "Open-Source UI elements made with CSS & HTML where anyone can contribute." },
+        { "url": "https://ui.shadcn.com/", "name": "shadcn/ui", "description": "Open-Source UI components for React projects, that you can easily copy and paste into your apps." },
+        { "url": "https://headlessui.com/", "name": "Headless UI", "description": "Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS." }
+      ]
+    },
+    {
+      "id": "vue-ui-libraries",
+      "title": "Vue UI libraries",
+      "icon": "fab fa-vuejs",
+      "resources": [
+        { "url": "https://vuetifyjs.com/", "name": "Vuetify", "description": "Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features." },
+        { "url": "https://www.creative-tim.com/vuematerial/", "name": "Vue Material", "description": "Simple, lightweight and built exactly according to the Google Material Design specs." },
+        { "url": "https://bootstrap-vue.org/", "name": "BootstrapVue", "description": "BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup." },
+        { "url": "https://quasar.dev/", "name": "Quasar framework", "description": "Quasar is an MIT licensed open-source Vue.js based framework. It enables web developers to create responsive++ websites/apps in various formats: SPAs, SSR (+ optional PWA client takeover), PWAs, BEX, Mobile Apps (Android, iOS, etc.), and Multi-platform Desktop Apps (using Electron). Quasar's motto is \"write code once, deploy it as a website, Mobile App, and/or Electron App.\" It provides a state-of-the-art CLI and efficient Quasar web components, eliminating the need for additional heavy libraries like Hammer.js, Moment.js, or Bootstrap." }
+      ]
+    },
+    {
+      "id": "react-ui-libraries",
+      "title": "React UI libraries",
+      "icon": "fab fa-react",
+      "resources": [
+        { "url": "https://mui.com/core/", "name": "Material-UI", "description": "Simple and customizable component library to build faster, beautiful, and more accessible React applications." },
+        { "url": "https://ant.design/", "name": "Ant Design", "description": "An enterprise-class UI design language and React UI library." },
+        { "url": "https://react-bootstrap.github.io/", "name": "React Bootstrap", "description": "Bootstrap components built with React." },
+        { "url": "https://react.semantic-ui.com/", "name": "Semantic UI React", "description": "Semantic UI React is the official React integration for Semantic UI ." },
+        { "url": "https://chakra-ui.com/", "name": "Chakra UI", "description": "A simple, modular and accessible component library that gives you the building blocks you need to build your React applications" },
+        { "url": "https://nativebase.io/", "name": "NativeBase", "description": "NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web." },
+        { "url": "https://primereact.org/", "name": "Prime React", "description": "The ultimate collection of design-agnostic, flexible and accessible React UI Components." }
+      ]
+    },
+    {
+      "id": "angular-ui-libraries",
+      "title": "Angular UI libraries",
+      "icon": "fab fa-angular",
+      "resources": [
+        { "url": "https://taiga-ui.dev/", "name": "Taiga UI", "description": "A powerful set of open source components for Angular" },
+        { "url": "https://www.primefaces.org/primeng/", "name": "PrimeNG", "description": "Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components." },
+        { "url": "https://material.angular.io/", "name": "Angular Material", "description": "Angular Material is a UI library component developed by Google in 2014." }
+      ]
+    },
+    {
+      "id": "sustainability",
+      "title": "Sustainability",
+      "icon": "fas fa-leaf",
+      "resources": [
+        { "url": "https://digitalbeacon.co", "name": "Beacon", "description": "Web page carbon calculator to help estimate and lower the carbon emissions of web pages" },
+        { "url": "https://websitecarbon.com", "name": "Website Carbon", "description": "The first web page carbon calculator" },
+        { "url": "https://ecograder.com", "name": "Ecograder", "description": "Web page carbon calculator with additional information on UX" },
+        { "url": "https://w3c.github.io/sustainableweb-wsg/", "name": "Web Sustainability Guidelines", "description": "Sustainable design guidelines produced by W3C" },
+        { "url": "https://sustainablewebdesign.org/", "name": "Sustainable Web Design", "description": "Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes" },
+        { "url": "https://www.thegreenwebfoundation.org/", "name": "The Green Web Foundation", "description": "A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js" },
+        { "url": "https://www.techcarbonstandard.org/", "name": "Tech Carbon Standard", "description": "A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas" }
+      ]
+    },
+    {
+      "id": "others",
+      "title": "Others",
+      "icon": "fas fa-asterisk",
+      "resources": [
+        { "url": "https://mdb.pushkaryadav.in/", "name": "MDB: Markdwon Badges", "description": "Generate amazing svg markdown badges within few clicks" },
+        { "url": "https://freecodetools.org/markdown-preview/", "name": "Markdown Preview", "description": "Markdown Editor with instant preview using GitHub CSS." },
+        { "url": "https://javascriptquiz.com", "name": "JavaScript Quiz", "description": "JavaScript Quiz - Check your knowledge by having fun." },
+        { "url": "https://cookiebubble.netlify.app", "name": "CookieBubble", "description": "The easy way to inform users that your website is using cookies." },
+        { "url": "https://www.developerupdates.com", "name": "Developer Updates", "description": "Keeps you updated one everything going on in the software developement world" },
+        { "url": "https://boxy-svg.com/", "name": "Boxy SVG Editor", "description": "SVG Editing Tool - Here you can easily edit and save any SVG file" },
+        { "url": "https://cssrepo.com/", "name": "Cssrepo", "description": "A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS" },
+        { "url": "https://websearcher.vercel.app/", "name": "Web Searcher", "description": "Create Open Graph, Twitter and basic meta tags easily" },
+        { "url": "https://makemeta.app/", "name": "MakeMeta", "description": "Effortlessly generate Meta Tags for your website!" },
+        { "url": "https://perfectbugreport.io/", "name": "PerfectBugReport.io", "description": "A simple checklist of the essential items to include in bug reports." },
+        { "url": "https://vue-cheatsheet.themeselection.com/", "name": "Vue CheatSheet", "description": "an interactive cheatsheet of Vue, Vue Router, and Pinia." }
       ]
     }
   ]
